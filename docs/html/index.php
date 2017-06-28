@@ -5,7 +5,7 @@ $date = date("Y-m-d");
 $author     = "@shiftraider";
 $title      = "";
 $subTitle   = "";
-$baseUrl    = "https://shiftraiderpool";
+$baseUrl    = "https://shiftraider.github.io/shiftraiderpool/";
 $coin       = "SHIFT";
 
 $apiHost            = "http://wallet.shiftnrg.nl:9305";
