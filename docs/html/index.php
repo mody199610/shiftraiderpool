@@ -2,10 +2,10 @@
 date_default_timezone_set("UTC");
 $date = date("Y-m-d");
 
-$author     = "@LepetitJan";
+$author     = "@shiftraider";
 $title      = "";
 $subTitle   = "";
-$baseUrl    = "https://pool.seatrips.nl";
+$baseUrl    = "https://shiftraiderpool";
 $coin       = "SHIFT";
 
 $apiHost            = "http://wallet.shiftnrg.nl:9305";
